@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://partisbasses.github.io/static-website/sitemap.xml

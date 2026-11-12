@@ -3,6 +3,15 @@ description: "Media et agence de production"
 
 url: "https://partisbasses.github.io"
 # PRODUCTION ENV
-baseurl: "/static-website"
+#baseurl: "/static-website"
 # DEV ENV
-#baseurl: ""
+baseurl: ""
+
+lang: fr
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
+
+
