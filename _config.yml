@@ -2,10 +2,7 @@ title: "Partis Basses"
 description: "Media et agence de production"
 
 url: "https://partisbasses.github.io"
-# PRODUCTION ENV
-baseurl: "/static-website"
-# DEV ENV
-3baseurl: ""
+baseurl: ""
 
 lang: fr
 
